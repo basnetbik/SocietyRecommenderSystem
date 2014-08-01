@@ -1,0 +1,212 @@
+(lp0
+S'Adjusted savings: energy depletion (% of GNI)'
+p1
+aS'Adjusted savings: energy depletion (current US$)'
+p2
+aS'Adjusted savings: mineral depletion (% of GNI)'
+p3
+aS'Adjusted savings: mineral depletion (current US$)'
+p4
+aS'Adjusted savings: natural resources depletion (% of GNI)'
+p5
+aS'Adjusted savings: net forest depletion (% of GNI)'
+p6
+aS'Adjusted savings: net forest depletion (current US$)'
+p7
+aS'Adolescent fertility rate (births per 1,000 women ages 15-19)'
+p8
+aS'Age dependency ratio (% of working-age population)'
+p9
+aS'Age dependency ratio, old (% of working-age population)'
+p10
+aS'Age dependency ratio, young (% of working-age population)'
+p11
+aS'Birth rate, crude (per 1,000 people)'
+p12
+aS'Changes in inventories (current LCU)'
+p13
+aS'Changes in inventories (current US$)'
+p14
+aS'Crop production index (2004-2006 = 100)'
+p15
+aS'Death rate, crude (per 1,000 people)'
+p16
+aS'DEC alternative conversion factor (LCU per US$)'
+p17
+aS'Exports of goods and services (% of GDP)'
+p18
+aS'Exports of goods and services (current LCU)'
+p19
+aS'Exports of goods and services (current US$)'
+p20
+aS'External balance on goods and services (% of GDP)'
+p21
+aS'External balance on goods and services (current LCU)'
+p22
+aS'External balance on goods and services (current US$)'
+p23
+aS'Fertility rate, total (births per woman)'
+p24
+aS'Final consumption expenditure (current LCU)'
+p25
+aS'Final consumption expenditure (current US$)'
+p26
+aS'Final consumption expenditure, etc. (% of GDP)'
+p27
+aS'Final consumption expenditure, etc. (current LCU)'
+p28
+aS'Final consumption expenditure, etc. (current US$)'
+p29
+aS'Food production index (2004-2006 = 100)'
+p30
+aS'GDP (constant 2005 US$)'
+p31
+aS'GDP (constant LCU)'
+p32
+aS'GDP (current LCU)'
+p33
+aS'GDP (current US$)'
+p34
+aS'GDP deflator (base year varies by country)'
+p35
+aS'GDP per capita (constant 2005 US$)'
+p36
+aS'GDP per capita (constant LCU)'
+p37
+aS'GDP per capita (current LCU)'
+p38
+aS'GDP per capita (current US$)'
+p39
+aS'GDP per capita, PPP (constant 2005 international $)'
+p40
+aS'GDP per capita, PPP (current international $)'
+p41
+aS'GDP, PPP (constant 2005 international $)'
+p42
+aS'GDP, PPP (current international $)'
+p43
+aS'General government final consumption expenditure (% of GDP)'
+p44
+aS'General government final consumption expenditure (current LCU)'
+p45
+aS'General government final consumption expenditure (current US$)'
+p46
+aS'GNI (current LCU)'
+p47
+aS'GNI (current US$)'
+p48
+aS'GNI per capita (current LCU)'
+p49
+aS'GNI per capita, PPP (current international $)'
+p50
+aS'GNI, PPP (current international $)'
+p51
+aS'Gross capital formation (% of GDP)'
+p52
+aS'Gross capital formation (current LCU)'
+p53
+aS'Gross capital formation (current US$)'
+p54
+aS'Gross domestic savings (% of GDP)'
+p55
+aS'Gross domestic savings (current LCU)'
+p56
+aS'Gross domestic savings (current US$)'
+p57
+aS'Gross fixed capital formation (% of GDP)'
+p58
+aS'Gross fixed capital formation (current LCU)'
+p59
+aS'Gross fixed capital formation (current US$)'
+p60
+aS'Gross national expenditure (% of GDP)'
+p61
+aS'Gross national expenditure (current LCU)'
+p62
+aS'Gross national expenditure (current US$)'
+p63
+aS'Household final consumption expenditure, etc. (% of GDP)'
+p64
+aS'Household final consumption expenditure, etc. (current LCU)'
+p65
+aS'Household final consumption expenditure, etc. (current US$)'
+p66
+aS'Imports of goods and services (% of GDP)'
+p67
+aS'Imports of goods and services (current LCU)'
+p68
+aS'Imports of goods and services (current US$)'
+p69
+aS'Land area (sq. km)'
+p70
+aS'Life expectancy at birth, female (years)'
+p71
+aS'Life expectancy at birth, male (years)'
+p72
+aS'Life expectancy at birth, total (years)'
+p73
+aS'Livestock production index (2004-2006 = 100)'
+p74
+aS'Mobile cellular subscriptions'
+p75
+aS'Mobile cellular subscriptions (per 100 people)'
+p76
+aS'Net income from abroad (current LCU)'
+p77
+aS'Net income from abroad (current US$)'
+p78
+aS'Population (Total)'
+p79
+aS'Population ages 0-14 (% of total)'
+p80
+aS'Population ages 15-64 (% of total)'
+p81
+aS'Population ages 65 and above (% of total)'
+p82
+aS'Population density (people per sq. km of land area)'
+p83
+aS'Population growth (annual %)'
+p84
+aS'Population in largest city'
+p85
+aS'Population in the largest city (% of urban population)'
+p86
+aS'Population, female (% of total)'
+p87
+aS'PPP conversion factor (GDP) to market exchange rate ratio'
+p88
+aS'PPP conversion factor, GDP (LCU per international $)'
+p89
+aS'Primary education, duration (years)'
+p90
+aS'Primary school starting age (years)'
+p91
+aS'Rural population'
+p92
+aS'Rural population (% of total population)'
+p93
+aS'Rural population growth (annual %)'
+p94
+aS'Secondary education, duration (years)'
+p95
+aS'Secondary school starting age (years)'
+p96
+aS'Surface area (sq. km)'
+p97
+aS'Survival to age 65, female (% of cohort)'
+p98
+aS'Survival to age 65, male (% of cohort)'
+p99
+aS'Telephone lines'
+p100
+aS'Telephone lines (per 100 people)'
+p101
+aS'Trade (% of GDP)'
+p102
+aS'Urban population'
+p103
+aS'Urban population (% of total)'
+p104
+aS'Urban population growth (annual %)'
+p105
+a.
